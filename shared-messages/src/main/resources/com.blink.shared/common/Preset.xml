@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model extends="Entity">
+    <field type="String">title</field>
+    <field type="String">description</field>
+    <field type="Photo">beforeImage</field>
+    <field type="Photo">afterImage</field>
+    <field type="File">templateFile</field>
+</model>
