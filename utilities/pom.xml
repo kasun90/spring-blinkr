@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>shared-messages</artifactId>
+    <artifactId>utilities</artifactId>
 
     <dependencies>
         <dependency>
@@ -17,11 +17,7 @@
             <artifactId>shared-dependencies</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
-        <dependency>
-            <groupId>xyz.justblink</groupId>
-            <artifactId>utilities</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
     </dependencies>
+
 
 </project>
