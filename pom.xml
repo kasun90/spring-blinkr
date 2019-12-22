@@ -15,6 +15,7 @@
         <module>runner</module>
         <module>shared-messages</module>
         <module>utilities</module>
+        <module>core</module>
     </modules>
 
     <properties>
